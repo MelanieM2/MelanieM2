@@ -31,9 +31,9 @@ Collection of notebooks covering:
 
 | # | Project | What it does | Status |
 |---|---------|---------------|--------|
-| 0 | [infra-backup-system](https://github.com/MelanieM2/infra-backup-system) | Secure local dev infrastructure — SSH, rsync & Git mirroring between WSL2 and a hardened backup server | stable |
-| 1 | [research_digester](https://github.com/MelanieM2/research_digester) | Research summarization tool — condenses papers and articles via Gemini API | stable |
-| 2 | [linux-system-inspector](https://github.com/MelanieM2/linux-system-inspector) | System diagnostics tool — CPU, RAM, disk, and network inspection via Python | stable |
+| 0 | [infra-backup-system](https://github.com/MelanieM2/infra-backup-system) | Secure local dev infrastructure — SSH, rsync & Git mirroring between WSL2 and a hardened backup server | done |
+| 1 | [research_digester](https://github.com/MelanieM2/research_digester) | Research summarization tool — condenses papers and articles via Gemini API | done |
+| 2 | [linux-system-inspector](https://github.com/MelanieM2/linux-system-inspector) | System diagnostics tool — CPU, RAM, disk, and network inspection via Python | done |
 | 3 | [log-analyzer](https://github.com/MelanieM2/log-analyzer) | Parse, analyze, and summarize log files using Pandas and the Gemini API | stable |
 | 4 | [sql-agent](https://github.com/MelanieM2/sql-agent) | Agentic SQL assistant: natural language queries over SQLite via Gemini | stable |
 | 5 | [ml-agent](https://github.com/MelanieM2/ml-agent) | Agentic ML experimentation assistant: Gemini orchestrates scikit-learn model search via native function-calling | stable |
