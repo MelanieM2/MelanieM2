@@ -1,8 +1,9 @@
 # About me
-I'm a mathematician with a background in maths, physics, geometry, and analysis on manifolds. 
-I'm currently interested in learning more about the maths behind deep learning, ML, data science, and AI. 
-My first goal in this process is to improve my computer science and programming skills in these areas. 
-Besides, I'm also interested in science communication and AI-supported STEM outreach projects in general.
+I'm a mathematician with a background in spectral geometry, geometric analysis, and analysis on manifolds.
+
+I'm currently exploring the mathematics behind deep learning while also developing my skills in applied mathematics, machine learning, data science, and AI. A major part of this journey is strengthening my computer science and programming skills. This is why I'm here: to learn, experiment, often from scratch, and build along the way.
+
+I'm also interested in science communication and AI-supported outreach in STEM, particularly in exploring how we can bring AI and Art together to make STEM-fields more accessible and engaging while addressing important societal challenges.
 
 # About this repository
 As part of my learning process, this repository collection contains mainly hands-on projects and experiments using (but not limited to) Python in topics such as:
@@ -14,20 +15,19 @@ As part of my learning process, this repository collection contains mainly hands
 - Building more application-oriented AI prototypes
 
 
-## Foundations & Early ML/Deep Learning Projects
-### [Grokking Project](https://github.com/MelanieM2/Grokking-Project)
-Exploration of generalization in neural networks:
-- training dynamics
-- transition from memorization to generalization
-- experimental analysis
-### [ML Basics](https://github.com/MelanieM2/ML-Basics)
-Collection of notebooks covering:
+## [ML Basics](https://github.com/MelanieM2/ML-Basics): Collection of notebooks covering:
 - regression models
 - neural networks
 - prediction tasks
 - applied ML workflows
 
-## Learning Path: Data Science, ML & Agentic AI
+## [Grokking](https://github.com/MelanieM2/Grokking-Project): My first Deep Learning project covering
+Exploration of generalization in neural networks:
+- training dynamics
+- transition from memorization to generalization
+- experimental analysis
+
+## Recent, Current & Upcoming Projects: Data Science, ML & Agentic AI
 
 | # | Project | What it does | Status |
 |---|---------|---------------|--------|
