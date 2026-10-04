@@ -20,22 +20,21 @@ This repository documents in form of small projects and experiments my learning 
 - Building more application-oriented AI prototypes
 - AI-assisted programming 
 
-
-### [ML Basics](https://github.com/MelanieM2/ML-Basics) 
-Collection of notebooks covering exercises on
+## Collection of ML basic cases studies
+**[ML Basics](https://github.com/MelanieM2/ML-Basics)** is a collection of notebooks covering exercises on
 - regression models
 - neural networks
 - prediction tasks
 - applied ML workflows
 
-### [Grokking](https://github.com/MelanieM2/Grokking-Project) 
-My Data Science Diploma Project, which explored a mechanism of generalisation in neural networks and covered subjects such as:
+## My Data Science Diploma Project
+**[Grokking](https://github.com/MelanieM2/Grokking-Project)** explores a mechanism of generalisation in neural networks and covered subjects such as:
 - deep learning, transformers, attention, MLP.
 - training dynamics
 - transition from memorization to generalization
 - experimental analysis
 
-## Recent, Current & Upcoming Projects: Data Science, ML & Agentic AI
+## Recent, current & upcoming projects on automation, data science, ML, etc. 
 
 | # | Project | What it does | Status |
 |---|---------|---------------|--------|
@@ -45,6 +44,17 @@ My Data Science Diploma Project, which explored a mechanism of generalisation in
 | 3 | **[log-analyzer](https://github.com/MelanieM2/log-analyzer)** | Parse, analyze, and summarize log files using Pandas and the Gemini API | stable |
 | 4 | **[sql-agent](https://github.com/MelanieM2/sql-agent)** | Agentic SQL assistant: natural language queries over SQLite via Gemini | stable |
 | 5 | **[ml-agent](https://github.com/MelanieM2/ml-agent)** | Agentic ML experimentation assistant: Gemini orchestrates scikit-learn model search via native function-calling | stable |
+
+## STEM, Art, & Scientific Communication
+
+| # | Project | What it does | Status |
+|---|---------|---------------|--------|
+| 0 | **[Der Korridor](https://github.com/MelanieM2/Der-Korridor)** | An open-source infrastructure powering a music storytelling album and an immersive, interactive website that unfolds a post-apocalyptic, musical and philosophical story by Alex Kesselring.  | soon available|
+
+<!--The ecosystem technically orchestrates eight distinct protagonists alongside two core AI architectures:
+* **The Threshold Keeper:** A dual-role AI acting as both a diegetic narrative character and an analytical co-writing tool during production.
+* **The Meta-Agent:** A planned overarching orchestrator designed to guide the broader generative ecosystem.
+-->
 
 *"Stable" means the core functionality works and is usable end-to-end — each repo still keeps an open TODO/roadmap list for further refinement.*
 
