@@ -49,7 +49,7 @@ This repository documents in form of small projects and experiments my learning 
 
 | # | Project | What it does | Status |
 |---|---------|---------------|--------|
-| 0 | **[Der Korridor](https://github.com/MelanieM2/Der-Korridor)** | An open-source infrastructure powering a music storytelling album and an immersive, interactive website that unfolds a post-apocalyptic, musical and philosophical story by Alex Kesselring.  | soon available|
+| 0 | **[Der Korridor](https://github.com/MelanieM2/Der-Korridor)** | An open-source AI-agentic infrastructure powering a music storytelling album and an immersive, interactive website that unfolds a post-apocalyptic, musical and philosophical story by Alex Kesselring.  | soon available|
 
 <!--The ecosystem technically orchestrates eight distinct protagonists alongside two core AI architectures:
 * **The Threshold Keeper:** A dual-role AI acting as both a diegetic narrative character and an analytical co-writing tool during production.
